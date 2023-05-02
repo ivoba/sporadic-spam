@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkivos_ecotainment_newsletter=self.webpackChunkivos_ecotainment_newsletter||[]).push([[678],{6558:function(e,t,n){n.r(t);var l=n(7294),i=n(8678),r=n(4219),s=n(9357),a=n(4901),c=n(8105);t.default=()=>l.createElement(i.Z,null,l.createElement(s.Z,{title:"Willkommen",keywords:["ecotainment","newsletter"],description:"Umwelt, Wissenschaft, Aktivisten, Birding, Subkultur, Trivia"}),l.createElement(c.Z,null,l.createElement(r.Z,null),l.createElement(a.Z,null)))}}]);
+//# sourceMappingURL=component---src-pages-index-js-c15eb8c093c4a5705425.js.map
