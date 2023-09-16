@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://ivos-ecotainment-newsletter.info/sitemap-index.xml
